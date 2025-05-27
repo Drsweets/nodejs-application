@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/acadalearning/nodejs-application"
+    "url": "https://github.com/Drsweets/nodejs-application.git"
   },
   "keywords": [
     "node",
     "Acada Learning",
     "express"
   ],
-  "author": "Efe Joveluro",
-  "license": "AcadaLearning"
+  "author": "Dr Sweets",
+  "license": "SweetTooth BootCamp"
 }
